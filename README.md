@@ -1,6 +1,6 @@
 # ThursdayCode
 A repository of coding tasks every thursday
 
-Navn: Sitthichai Phuanphimai Seest
+Name: Sitthichai Phuanphimai Seest
 
-Studiemail: cph-sps242@cphbusiness.dk
+E-mail: cph-sps242@cphbusiness.dk
