@@ -1,8 +1,8 @@
 //6A
 
-int a= (int) random(10);
+int a= (int) random(0,10);
 
-int b= (int)random(10);
+int b= (int)random(0,10);
 
 if(a==10){
   
@@ -30,9 +30,9 @@ else{
 
 //6B
 
-int x=(int)random(10);
-int y=(int)random(10);
-int z=(int)random(10);
+int x=(int)random(0,10);
+int y=(int)random(0,10);
+int z=(int)random(0,10);
 
 if(x+y+z==30)
 
