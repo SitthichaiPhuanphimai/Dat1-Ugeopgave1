@@ -1,6 +1,6 @@
 //6A
 
-int a= (int) random(0,10);
+int a= (int)random(0,10);
 
 int b= (int)random(0,10);
 
