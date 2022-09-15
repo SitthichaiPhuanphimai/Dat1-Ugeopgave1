@@ -1,5 +1,5 @@
 # ThursdayCode
-A repository of coding tasks every thursday
+Thursday coding task for week1
 
 Name: Sitthichai Phuanphimai Seest
 
